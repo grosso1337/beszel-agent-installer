@@ -43,7 +43,7 @@ The latest release brings a **complete redesign** of the installer and introduce
 
 ## 🖥️ NEW – Beszel Agent Control Center
 
-A completely new GUI application to manage the Beszel Agent after installation.
+A completely new GUI application to manage the Beszel Agent after installation
 
 ### Features:
 - Start, stop, and restart the agent service  
